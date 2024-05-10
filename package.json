@@ -38,7 +38,7 @@
   "devDependencies": {
     "all-contributors-cli": "^6.11.2",
     "clientjs": "^0.2.1",
-    "cypress": "^4.5.0",
+    "cypress": "^4.12.1",
     "jasmine-core": "^3.5.0",
     "karma": "^4.4.1",
     "karma-browserstack-launcher": "^1.5.1",
